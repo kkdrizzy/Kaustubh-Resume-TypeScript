@@ -58,7 +58,7 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm an Ireland Based <strong className="text-stone-100">Full Stack Software Engineer/ Data Engineer</strong>,
+        I'm an Ireland Based <strong className="text-stone-100">Full Stack Software Engineer/ Data Engineer</strong>.
         As a dynamic software developer with a passion for innovation, I bring a wealth of experience in data analysis,
         project management, and software development. My solid foundation in data engineering, statistical analysis,
         and programming empowers me to excel in dynamic environments. With a keen eye for detail and dedication to delivering exceptional results,
