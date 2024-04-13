@@ -349,14 +349,14 @@ export const testimonial: TestimonialSection = {
     {
       name: 'Mahesh Shelke',
       text: 'He is having very good Analysis & Programming skill, also hardworking & more dedicated towards work. Truly a genius in his Development.',
-      image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/169.jpg',
+      image: "./mahesh.jpg",
     },
     {
       name: 'Samuel Nadar',
       text: 'We worked together for more than a year in Greyatom Edutech Private limited as i remember Kaustubh use to say "coding is like magic! And we are magicians" and then I thought what a different way to being a developer.\n' +
         '\n' +
         'And here I am recommending the magician of greyatom,the way he use to tackle the problem with ease was simply mind blowing.',
-      image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/14.jpg',
+      image: "./samuel.jpg",
     },
     {
       name: 'Zoheb Qazi',
@@ -365,13 +365,13 @@ export const testimonial: TestimonialSection = {
         'On a personal level, Kaustubh is a very approachable person and quite easy to talk to. His hobbies and passion make him a very interesting person if you give him time to bloom.\n' +
         '\n' +
         'Kaustubh has a long and fruitful road ahead of him and I see him growing steadily and positively in the near future.',
-      image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/69.jpg',
+      image: "./zoheb.jpg",
     },
     {
       name: 'Mayuresh Shilotri',
       text: 'Kaustubh is a valuable team player, He has worked for me for past 1 year and has provided important insights in some complex problems. ' +
         'He is attentive, hard working and more importantly an excellent human being',
-      image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/69.jpg',
+      image: "./mayuresh.jpg",
     },
   ],
 };
