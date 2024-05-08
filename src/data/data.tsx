@@ -291,6 +291,8 @@ export const experience: TimelineItem[] = [
         </li>
         <li>• Transitioned adeptly into the ML/Ops domain, leveraging PySpark, Pandas, GeoPandas, Apache Hadoop,
           and Power BI to unearth actionable insights, fostering revenue growth by 10%.</li>
+        <li>• Applied data-processing techniques to handle complex data structures, handle missing or incomplete data
+          and prepare the data for analysis, reporting or machine learning tasks.</li>
         <li>• Learnt Data-Preprocessing, Data-Cleaning, and Data-Mining techniques to leverage the success of my
           project.
         </li>
@@ -315,7 +317,7 @@ export const experience: TimelineItem[] = [
     ),
   },
   {
-    date: 'Feb 2021 - Nov 2021',
+    date: 'Sep 2019 - Jan 2021',
     location: 'GreyAtom Edutech Pvt. Ltd.',
     title: 'Software Engineer',
     content: (
@@ -323,12 +325,16 @@ export const experience: TimelineItem[] = [
         <li>• Architected, deployed, and maintained 2/7 mission-critical microservices, amplifying organizational
           capabilities.
         </li>
+        <li>• Integrated data from multiple sources and systems, including databases, APIs, log files, streaming
+          platforms and external providers.</li>
         <li>• Collaborated seamlessly with interdisciplinary teams to translate client needs into robust software
           solutions.
         </li>
         <li>• Proficiency spans Agile, Waterfall, and Bugfix methodologies, with a keen eye for performance
           optimization and feature augmentation.
         </li>
+        <li>• Contribute to common frameworks and best practices in code development, deployment and automation/orchestration
+          of services.</li>
         <li>• Executed rigorous UAT and Integration testing protocols to ensure product integrity.</li>
         <li>• Resolved technical hurdles for a broad student base of 500, with agility and precision.</li>
         <li>• Command proficiency in Spring Boot, Angular, Docker, Redis, Kafka, PostgreSQL, GRPF, and Python.</li>
